@@ -1,3 +1,4 @@
+apt install wget
 wget https://kuburan.github.io/kuburan-repo.sh
 chmod +x kuburan-repo.sh
 apt update
